@@ -4,9 +4,9 @@ Wij bieden een fotografie workshops landschapsfotografie.
 
 Bekijk onze site voor meer infomatie, veel plezier!!
 
-### Markdown
+### Workshops
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We hebben diverse workshops, oa landschap, macro, en natuur. 
 
 ```markdown
 Syntax highlighted code block
