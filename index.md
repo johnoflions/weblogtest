@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Jan van Leeuwen Pages
 
-You can use the [editor on GitHub](https://github.com/johnoflions/weblogtest/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Wij bieden een fotografie workshops landschapsfotografie. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Bekijk onze site voor meer infomatie, veel plezier!!
 
 ### Markdown
 
