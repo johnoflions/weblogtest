@@ -9,7 +9,7 @@ Bekijk onze site voor meer infomatie, veel plezier!!
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```javascript
-console.log("Kom eens eens een workshop doen")
+console.log("Kom eens een workshop doen")
 
 ```
 
