@@ -8,6 +8,8 @@ Bekijk onze site voor meer infomatie, veel plezier!!
 
 We hebben diverse workshops, oa landschap, macro, en natuur. 
 
+Geen camera? Er zijn ook workshops voor smartphones!
+
 ```markdown
 Syntax highlighted code block
 
